@@ -7,7 +7,7 @@ WebRTC VAD Audio Detector
 This project provides a simple Python script that detects speech and silence durations from a WAV audio file using the Google WebRTC Voice Activity Detector (VAD).
 It is lightweight, fast, and suitable for both offline analysis and real-time speech detection.
 
-이 프로젝트는 **Google WebRTC 음성 활동 감지기(VAD)**를 사용하여 WAV 오디오 파일에서 사람의 음성 구간과 침묵 구간을 감지하는 간단한 Python 스크립트입니다.
+이 프로젝트는 Google WebRTC 음성 활동 감지기(VAD)를 사용하여 WAV 오디오 파일에서 사람의 음성 구간과 비음성 구간(무음, 소음, 효과음 등) 구간을 감지하는 간단한 Python 스크립트입니다.
 가볍고 빠르며, 오프라인 분석 및 실시간 음성 감지에도 활용할 수 있습니다.
 
 ⸻
