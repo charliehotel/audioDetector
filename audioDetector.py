@@ -3,7 +3,7 @@ import wave
 import math
 
 # Load WAV file
-audio = wave.open("./python/audioDetector/audio.wav", "rb")
+audio = wave.open("audio.wav", "rb")
 
 # Sensitivity settings
     # Vad(0): Less sensitive (accurate but may miss quiet voices)
